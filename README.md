@@ -13,3 +13,4 @@ Patterns recognition systems that are invariant to shape, pose, lighting and tex
 
 完了
 
+変更がありました
